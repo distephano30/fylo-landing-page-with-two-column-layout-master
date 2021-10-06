@@ -315,6 +315,9 @@ ion-icon:hover{
   h1{
     font-size: 2.1rem;
   }
+  .header-form{
+    margin: auto;
+  }
   section{
     flex-direction: column-reverse;
     margin: 10px auto;
