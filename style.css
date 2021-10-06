@@ -351,15 +351,16 @@ ion-icon:hover{
   margin: 13px auto;
 }
 .demo-box{
-  width: 30%;
+  width: 45%;
   margin: auto;
 }
 .card{
-  width: 75%;
+  width: 80%;
   margin: 25px auto;
   text-align: left;
 }
 .early-access{
+  height: auto;
   display: flex;
   flex-direction: column;
 }
